@@ -1,0 +1,10 @@
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\bin\Debug\Factura.exe.config
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\bin\Debug\Factura.exe
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\bin\Debug\Factura.pdb
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.exe
+C:\Users\juan cabrera\Documents\Ejemplo\Factura\Factura\obj\Debug\Factura.pdb
